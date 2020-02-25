@@ -98,15 +98,21 @@ Non perishable food and water
 ## Lights/electricity
 
 Enough emergency lamp (2 or 3)
+
 flashlight
+
 batteries
+
 candles
+
 matches/lighters.
+
 **solar phone charger**
 
 ## Optional
 
 Booze 
+
 shaving cream
 
 # Where to buy 
