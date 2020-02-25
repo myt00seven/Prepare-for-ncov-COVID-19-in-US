@@ -27,7 +27,7 @@ What's the goal of preparation?
 
 # What to buy 
 
-> 3 most important things in survival, good hygiene, daily food, and having lights/electricity.
+> Three most important things in survival, good hygiene, daily food, and having lights/electricity.
 
 ## Hygiene
 
@@ -68,7 +68,7 @@ Disposable **Gloves**
 
 
 
-Masks
+**Masks**
 *   You want a respirator rated N95 or above (eg. P100).
 *   Surgical masks — the common types found at corner stores that are more commonly worn in Asia — are not proper respirators. They are mostly designed to protect other people from you, not the other way around.
 *   However, proper respirators are in low supply around the world right now (3M is running their factory 24/7 just to meet urgent medical needs). If the best you can do is a surgical mask, it’s better than nothing.
@@ -96,9 +96,9 @@ Purrell and/or wet wipes/ **Lysol wipes**
         > |     | 流感病毒 | 新型冠状病毒 |
         > | --- | --- | --- |
         > | 杀灭方式 | 75°C 高温  <br>含氯消毒剂  <br>75%醇类消毒剂  <br>碘伏 | 56°C 高温30分钟  <br>含氯消毒剂，除氯己定（chlorhexidine）外  <br>75%醇类消毒剂  <br>碘伏 |
-    - 醇类消毒剂: 由于美国酒精管制，市售瓶装酒精的成分是异丙醇（Isopropyl Alcohol），其效果同乙醇一样。免洗手部消毒液和某些消毒喷雾的成分是乙醇，毕竟没有人会喝免洗消毒液。消毒酒精在超市药店很容易买到，出门在外可以带些酒精棉片。
+    - **醇类消毒剂**: 由于美国酒精管制，市售瓶装酒精的成分是异丙醇（Isopropyl Alcohol），其效果同乙醇一样。免洗手部消毒液和某些消毒喷雾的成分是乙醇，毕竟没有人会喝免洗消毒液。消毒酒精在超市药店很容易买到，出门在外可以带些酒精棉片。
         - https://www.amazon.com/Germ-X-Sanitizer-Bottle-Fluid-Ounce/dp/B01HEUD8KW
-    - 含氯消毒剂: 市售漂白水是用途很广的一种消毒液，其有效成分是次氯酸钠（sodium hypochlorite），浓度在5.25%-6%，适用于一般物体表面、白色衣物。漂白水能在短时间内杀菌，大部分情况使用后无需再次清洗，并且价格便宜。(必须**稀释后**才能使用，使用时应戴手套。/ **不能和其他洗涤剂和消毒液混用**，以免产生剧烈化学反应，大量释出氯气。)
+    - **含氯消毒剂**: 市售漂白水是用途很广的一种消毒液，其有效成分是次氯酸钠（sodium hypochlorite），浓度在5.25%-6%，适用于一般物体表面、白色衣物。漂白水能在短时间内杀菌，大部分情况使用后无需再次清洗，并且价格便宜。(必须**稀释后**才能使用，使用时应戴手套。/ **不能和其他洗涤剂和消毒液混用**，以免产生剧烈化学反应，大量释出氯气。)
         - https://www.amazon.com/dp/B00O5AAT0C
         - https://www.amazon.com/dp/B07RY63RYN
     
@@ -116,13 +116,14 @@ Purrell and/or wet wipes/ **Lysol wipes**
 - Get frozen vegetables like frozen broccoli, frozen spinach, etc.
 
 [Shelf-stable food](https://theprepared.com/kits/0jh133f5/). Prefer food that doesn’t need more than boiling water to prepare — eg. pasta, oatmeal, rice.
-- Rice and oatmeal / instant noodles / **dumplings** 
+- **Rice** and oatmeal / instant noodles / **dumplings** 
 - salt, sugar, soy sauce, sweet soy sauce.
 - **Food that you like**
     - There is something that can happen to people in survival situations called food fatigue. People become unable to stomach food that they have eaten repeatedly. Variety and comfort foods are the way to go.
 - **cans of food**
     - lots of instant broth (beef, chicken, curry, etc.) / olives
-- Get eggs. Hard boil a lot of them. Eggs are delicious, nutritious, and most eggs will last in a fridge for a few weeks.
+- eggs. 
+    - Hard boil a lot of them. Eggs are delicious, nutritious, and most eggs will last in a fridge for a few weeks.
 
 ## Lights/electricity
 
