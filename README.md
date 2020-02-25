@@ -1,6 +1,12 @@
 # Prepare-for-ncov-COVID-19-in-US
 
-[toc]
+- [Some Info Sources](#some-info-sources)
+- [What to buy](#what-to-buy)
+  - [Hygiene](#hygiene)
+  - [Daily food](#daily-food)
+  - [Lights/electricity](#lightselectricity)
+  - [Optional](#optional)
+- [Where to buy](#where-to-buy)
 
 ![](https://github.com/myt00seven/Prepare-for-ncov-COVID-19-in-US/blob/master/gfecznmjw2j41.jpg)
 
