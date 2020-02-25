@@ -22,6 +22,7 @@ What's the goal of preparation?
 > 1. Be able to shelter in your home for at least two weeks (the longer, the better) without leaving for supplies or outside help. If we have a significant amount of transmission here in the US, you’ll probably want the option of avoiding other people and public places. Or, if things get really dire, it may be recommended or required that you stay in your home for a period of time.
 > 2. Be able to protect yourself against picking up the virus. There are steps you can take now, and more serious steps you may want to have ready in case things get much worse.
 > 3. Listen to legitimate sources so you can make decisions based on accurate, rational news. This epidemic already has enough actual cause for concern —- there’s no need to make things worse with fake news!
+> 
 > **推薦閱讀**: https://theprepared.com/wuhan-coronavirus/
 
 # What to buy 
