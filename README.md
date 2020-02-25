@@ -2,7 +2,8 @@
 
 [toc]
 
-![a58324e0dc63db9d6f1c5ee2657ef435.png](:/0c27fa8e9cc64f0887cb05df720930b6)
+![](https://github.com/myt00seven/Prepare-for-ncov-COVID-19-in-US/blob/master/gfecznmjw2j41.jpg)
+
 > Photo: A reddit user preps for a family of 5. https://www.reddit.com/r/PandemicPreps/comments/f9awk8/prepping_for_the_worse_family_of_5_here/
 
 # Some Info Sources
