@@ -107,7 +107,7 @@ Purrell and/or wet wipes/ **Lysol wipes**
     
 
     - 美国常见的 Clorox、Lysol 和 store brand 消毒湿巾的有效成分是十二/十四/十八甲基的烷基二甲基苄基氯化铵（alkyl dimethyl benzyl ammonium chloride），它能杀灭感冒病毒、A2型流感病毒、沙门氏菌、大肠杆菌等，但对新型冠状病毒是否有效尚未确定。
-    > 有同学可能会说，我明明看见消毒湿巾上面写着：Kills human corona-virus 呀。冠状病毒是一大类病毒，有些能引起人类比较轻微的症状如普通感冒，有些能引起严重的症状如 SARS, MERS, COVID-19。能杀灭人类冠状病毒不代表能杀灭 COVID-19，还需要更多科学验证。
+      > 有同学可能会说，我明明看见消毒湿巾上面写着：Kills human corona-virus 呀。冠状病毒是一大类病毒，有些能引起人类比较轻微的症状如普通感冒，有些能引起严重的症状如 SARS, MERS, COVID-19。能杀灭人类冠状病毒不代表能杀灭 COVID-19，还需要更多科学验证。
     - 最容易买到的酚类消毒剂是滴露（Dettol），其有效成分是对氯间二甲苯酚（chloroxylenol）。我来美国前常用，日常家居消毒和衣物消毒都用它。滴露可杀灭引起感冒的人类冠状病毒，但对新型冠状病毒是否有效尚无定论。
 
 
