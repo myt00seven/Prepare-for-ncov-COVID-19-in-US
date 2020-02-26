@@ -125,6 +125,7 @@ What's the goal of preparation?
     - lots of instant broth (beef, chicken, curry, etc.) / olives
 - eggs. 
     - Hard boil a lot of them. Eggs are delicious, nutritious, and most eggs will last in a fridge for a few weeks.
+- nuts 
 
 ## Lights/electricity
 
