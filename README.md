@@ -13,6 +13,8 @@
 
 > Photo: A reddit user preps for a family of 5. https://www.reddit.com/r/PandemicPreps/comments/f9awk8/prepping_for_the_worse_family_of_5_here/
 
+國內物资准备中文參考[「光盐群风险提示·传染病流行期间的物资准备与防护」](https://web.archive.org/web/20200126143458/https://mp.weixin.qq.com/s/TF9KhHbZ_6GY1ck5E9hxpQ)
+
 # Why am I making this post 
 
 A good quote from reddit: 
